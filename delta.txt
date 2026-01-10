@@ -1,0 +1,7 @@
+User Management Commands:-
+
+1. useradd "user_name"
+2. userdel -D "user_name"
+3. su user_name
+4. getent username passwd
+5. cat /etc/passwd
