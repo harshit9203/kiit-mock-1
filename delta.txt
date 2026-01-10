@@ -1,0 +1,5 @@
+commands of user management
+adduser user_name
+getent passwd
+userdel user_name
+
