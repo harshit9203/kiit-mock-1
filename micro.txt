@@ -1,0 +1,6 @@
+5 branching commands
+1. git branch branch_name
+2. git switch branch_name
+3. git checkout -p branch_name
+4. git branch -d branch_name
+5. git branch old_branch_name new_branch_name
