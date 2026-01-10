@@ -1,0 +1,6 @@
+working stages of git
+create file
+commit changes 
+add files 
+create branches
+

@@ -1,0 +1,7 @@
+1.initiate the folder - git init
+2.create files - touch file_name
+3.add content to the files - nano file_name
+4.add the files - git add .
+5.commit the files - git commit -m "message"
+6.push the files into remote repositoy - git push origin master/main
+7.pull the files from remote repository - git pull origin master/main
