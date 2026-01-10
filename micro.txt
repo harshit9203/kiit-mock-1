@@ -1,0 +1,7 @@
+Branching Commands:-
+
+1. git branch "branch_name"
+2. git switch "branch_name"
+3. Or alternatively, use git checkout -b "branch_name"
+4. git branch -a, to check all branches.
+5. exit, to come back to main/master branch.
