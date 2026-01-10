@@ -1,0 +1,9 @@
+Workflow of Git:-
+
+1. Initialise -> git init
+2. Provide User Name-> git user.name "user_name"
+3. Provide user email -> git user.email "user_email@gmail.com". Then use git config.
+4. Create files -> touch a.txt b.txt
+5. Add them -> git add .
+6. Establish connection with repository -> git remote add origin url
+7. Commit the files -> git commit -m "First commit." Then push the files, git push origin master.
