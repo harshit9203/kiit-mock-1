@@ -1,0 +1,2 @@
+AWS global infrastructure
+Aws provides us with various technologies that can be used for scalability and optimized  resource utilization
